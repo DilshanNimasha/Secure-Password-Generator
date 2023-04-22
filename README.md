@@ -12,21 +12,21 @@ The generator should include a password strength meter that informs the user how
 
 The strength meter may also provide feedback to the user on how to improve the strength of the password. For example, it may suggest adding more characters, using a mix of uppercase and lowercase letters, numbers, and special characters, or avoiding common words or phrases.
 
-         1.  Length: The password generator should allow the user to specify the length of the password to be generated. A minimum length 
-         of 12 characters is recommended, but the user may want to generate longer passwords if they have specific security requirements.
+   1.  Length: The password generator should allow the user to specify the length of the password to be generated. A minimum length 
+       of 12 characters is recommended, but the user may want to generate longer passwords if they have specific security requirements.
 
-         2.  Complexity: The generator should be able to create passwords with a mix of uppercase and lowercase letters, numbers, and 
-         special characters. This will make the passwords more complex and difficult to guess or crack.
+   2.  Complexity: The generator should be able to create passwords with a mix of uppercase and lowercase letters, numbers, and 
+       special characters. This will make the passwords more complex and difficult to guess or crack.
 
-         3.  Randomness: The generator should be able to create truly random passwords. It should not use predictable patterns or sequences,
-         as this can make the passwords easier to crack.
+   3.  Randomness: The generator should be able to create truly random passwords. It should not use predictable patterns or sequences,
+       as this can make the passwords easier to crack.
 
-         4.  Avoiding common passwords: The generator should avoid creating passwords that are commonly used, such as "password" or "123456".
-         It should also avoid using personal information like names, birthdates, or other easily guessable information.
+   4.  Avoiding common passwords: The generator should avoid creating passwords that are commonly used, such as "password" or "123456".
+       It should also avoid using personal information like names, birthdates, or other easily guessable information.
 
-         5.  Strength meter: The generator should include a password strength meter that informs the user how strong the password is, based
-         on its length and complexity.
+   5.  Strength meter: The generator should include a password strength meter that informs the user how strong the password is, based
+       on its length and complexity.
 
-         6.  User-friendly interface: The generator should have a user-friendly interface that makes it easy for the user to generate and
-         copy the password to their clipboard, without having to remember or type it manually.
+   6.  User-friendly interface: The generator should have a user-friendly interface that makes it easy for the user to generate and
+       copy the password to their clipboard, without having to remember or type it manually.
 
